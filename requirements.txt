@@ -1,0 +1,11 @@
+pandasai[connectors]
+streamlit
+openai
+pyyaml
+pandas
+langchain-community
+langchain_anthropic
+langchain_openai
+langchain_core
+langchain_experimental
+tabulate
